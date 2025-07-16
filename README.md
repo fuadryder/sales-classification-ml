@@ -19,7 +19,7 @@ This project compares four distinct classification approaches:
 - ✅ **Random Forest Classifier** with `class_weight='balanced'`
 - ✅ **Logistic Regression**: with and without SMOTE oversampling
 - ✅ **Support Vector Machine (SVM)** with feature scaling
-- ✅ ✨ Evaluation tools: Confusion Matrix, F1-Score, ROC-AUC, Accuracy
+- ✅ ✨ Evaluation tools: Confusion Matrix, F1-Score, Accuracy
 
 Preprocessing highlights:
 - 📈 Feature Scaling via `StandardScaler`
